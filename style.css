@@ -1,0 +1,26 @@
+body{
+    background: linear-gradient(#76b7e9 40%, #5fccb4 50%);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.heading{
+    width: 80%;
+    font-size: 22px;
+    
+}
+.heading:hover{
+    background-color: white;
+    cursor: default;
+    border-style: none;
+}
+#camera{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+.rodape{
+    background-color: gray;
+    position:fixed; 
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
